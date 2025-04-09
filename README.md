@@ -8,7 +8,7 @@ This project predicts the tip amount based on restaurant bill details using a ma
 
 Here is a demonstration of the project:
 
-[![Watch the video](https://via.placeholder.com/640x360.png?text=Watch+Video)](showcase.mp4)
+<video controls src="showcase.mp4" title="Tips predict module"></video>
 ---
 
 ## 🚀 Features
