@@ -8,7 +8,7 @@ This project predicts the tip amount based on restaurant bill details using a ma
 
 Here is a demonstration of the project:
 
-
+![Tips predict](showcase.gif)
 
 ---
 
