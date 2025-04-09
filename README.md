@@ -3,6 +3,7 @@
 
 This project predicts the tip amount based on restaurant bill details using a machine learning model. The application is built with Python, features an interactive Gradio user interface, and is fully containerized with Docker for seamless deployment.
 
+You can reach the project directly in here : https://mlops-ready.onrender.com
 ---
 ## 📹 Showcase
 
