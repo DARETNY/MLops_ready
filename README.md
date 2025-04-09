@@ -2,7 +2,10 @@
 # Restaurant Tip Predictor (Dockerized)
 
 This project predicts the tip amount based on restaurant bill details using a machine learning model. The application is built with Python, features an interactive Gradio user interface, and is fully containerized with Docker for seamless deployment.
-
+<video width="640" height="360" controls>
+  <source src="showcase.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## 🚀 Features
