@@ -8,7 +8,7 @@ This project predicts the tip amount based on restaurant bill details using a ma
 
 Here is a demonstration of the project:
 
-<video controls src="showcase.mp4" title="Tips predict module"></video>
+<video controls src="DARETNY/MLops_ready/showcase.mp4" title="Tips predict module"></video>
 ---
 
 ## 🚀 Features
