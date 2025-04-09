@@ -1,6 +1,4 @@
-Here’s the improved English version of your README file:
 
-```markdown
 # Restaurant Tip Predictor (Dockerized)
 
 This project predicts the tip amount based on restaurant bill details using a machine learning model. The application is built with Python, features an interactive Gradio user interface, and is fully containerized with Docker for seamless deployment.
